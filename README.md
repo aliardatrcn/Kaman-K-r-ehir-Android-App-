@@ -4,5 +4,5 @@ Geliştirilen bu android uygulama kapsamında şehiriçi toplu taşıma bekleme 
 
 Kullanıcıcılar uygulamaya giriş yaptıklarında karşılarına aşağıdaki ekran çıkmaktadır;
 <p align="center">
-  <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/origin.jpeg"/>
+  <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/secenek.jpeg"/>
 </p>
