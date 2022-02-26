@@ -16,7 +16,7 @@ Kullanıcılar isteklerine bağlı olarak aşağıda oklar ile gösterilen yerle
   <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/secenek.jpeg"/>
 </p>
 
-En son aşamada **Beklemeye Başladım** yazan butona tıkladıklarında butonda **Beklemeyi Bitir** yazar ve uygulama kullanıcının butona tekrardan basıncaya kadarki süreyi ve konumunu veri tabanına kayıt eder.
+En son aşamada **Beklemeye Başladım** yazan butona tıkladıklarında butonun üzerindeki yazı **Beklemeyi Bitir** olarak değişir ve uygulama kullanıcı butona tekrardan basıncaya kadarki süreyi ve konumunu veri tabanına kayıt eder.
 
 <p align="center">
   <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/bekleme.jpeg"/>
