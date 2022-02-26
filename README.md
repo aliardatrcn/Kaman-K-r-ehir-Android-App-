@@ -2,7 +2,7 @@
 
 Geliştirilen bu android uygulama kapsamında şehiriçi toplu taşımada yolcuların bekleme sürelerinin tespiti ve analizinin yapılması amaçlanmaktadır. Bu sayede toplu taşıma kullanan yolcuların durakta bekleme sürelerinin iyileştirilmesi hedeflenmektedir.
 
-Uygulamayı indirmek için [buraya](https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/app-debug.apk) tıklayınız(Uygulamanın uygun şekilde kullanılabilmesi için kullanıcı konumunu açmalı ve uygulamaya konum izini vermelidir).
+Uygulamayı indirmek için [buraya](https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/app-debug.apk) tıklayınız (Uygulamanın uygun şekilde kullanılabilmesi için kullanıcı konumunu açmalı ve uygulamaya konum izini vermelidir).
 
 Kullanıcıcılar uygulamaya giriş yaptıklarında karşılarına aşağıdaki ekran çıkmaktadır;
 
