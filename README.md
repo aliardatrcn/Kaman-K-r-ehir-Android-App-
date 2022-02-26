@@ -17,7 +17,7 @@ Kullanıcılar isteklerine bağlı olarak aşağıda oklar ile gösterilen yerle
 En son aşamada **Beklemeye Başladım** yazan butona tıklarında butonda **Beklemeyi Bitir** yazar ve uygulama kullanıcının butona tekrardan basıncaya kadarki süreyi ve konumunu veri tabanına kayıt eder.
 
 <p align="center">
-  <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/secenek.jpeg"/>
+  <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/bekleme.jpeg"/>
 </p>
 
 Uygulamayı indirmek için [buraya](https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/app-debug.apk) tıklayınız.
