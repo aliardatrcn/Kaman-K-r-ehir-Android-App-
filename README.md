@@ -5,7 +5,7 @@ Geliştirilen bu android uygulama kapsamında şehiriçi toplu taşıma bekleme 
 Kullanıcıcılar uygulamaya giriş yaptıklarında karşılarına aşağıdaki ekran çıkmaktadır;
 
 <p align="center">
-  <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/secenek.jpeg"/>
+  <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/origin.jpeg"/>
 </p>
 
 Kullanıcılar isteklerine bağlı olarak aşağıda oklar ile gösterilen yerlere isim ve soyisim girebilir ve sonrasında beklemeye başladığı toplu taşıma aracını seçer.
