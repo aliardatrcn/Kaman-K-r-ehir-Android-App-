@@ -20,4 +20,4 @@ En son aşamada **Beklemeye Başladım** yazan butona tıklarında butonda **Bek
   <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/secenek.jpeg"/>
 </p>
 
-Uygulamayı indirmek için [buraya] (https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/app-debug.apk) tıklayınız.
+Uygulamayı indirmek için [buraya](https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/app-debug.apk) tıklayınız.
