@@ -22,8 +22,4 @@ En son aşamada **Beklemeye Başladım** yazan butona tıkladıklarında butonun
   <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/bekleme.jpeg"/>
 </p>
 
-# Toplu taşıma aracına ait güzergah verisinin WEB Arayüzü yardımı ile girilmesi:
-
-Kullanılacak olan toplu taşıma aracına ait güzergah, yol ve durak konumu bilgileri belirli öznitelikler eklenerek, tasarlanan WEB Arayüzü aracılığıyla veritabanına aktarılabilir.
-Veri aktarımı için yalnızca belirli sistem tarafından onaylanan belirli kullanıcılara  izin verilir. 
 
