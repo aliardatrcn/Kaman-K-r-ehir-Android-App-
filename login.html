@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dolmus API</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="images/hac1.jpg"/>
+<head>    
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 0 solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  position: relative;
+  left: 10px;
+}
+
+.label {
+left: 100px;
+position: relative;
+}
+
+button {
+  background: linear-gradient(to top left, #64d622 0%, #fce45b 100%);
+  color: rgb(148, 31, 31);
+  font-weight:bold;
+  font-size:110%;
+  padding: 14px 14px;
+  margin: 6px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+  position: relative;
+  top: 95px;
+  left: 38%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.hac-image {
+  background-image: url('images/hacettepe.jpg');
+  height: 736px;
+  opacity: 1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.imgcontainer {
+  text-align: center;
+  margin: 0 0 0 0;
+  
+}
+
+img.avatar {
+  background: linear-gradient(to top left, #64d622 0%, #fce45b 100%);
+  width: 16%;
+  border-radius: 25%;
+  position: relative;
+  top: 50px;
+ 
+}
+
+.container1 {
+  background: linear-gradient(to top left, #64d622 0%, #fce45b 100%);
+  position: relative;
+  top: 10%;
+  margin: auto;
+  width: 40%;
+  -webkit-border-radius: 200px / 360px;
+  -moz-border-radius: 200px / 360px; 
+  border-radius: 200px / 360px; 
+  padding: 44px 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="hac-image">
+    <script src="main.js"></script>
+      <div class="imgcontainer">
+        <img src="images/hac.jpg" alt="Avatar" class="avatar">
+      </div>
+
+      <div class="container1">
+        <label class="label" for="uname" ><b>Username</b>
+          <input id ="text1" type="text" placeholder="Enter Username" name="uname" required>
+        </label>
+        <br>
+        <label class="label" for="psw"><b>Password</b>
+          <input id ="text2" type="password" placeholder="Enter Password" name="psw" required>
+        </label>
+        <br>
+        <label class="label">
+          <input type="checkbox" checked="checked" name="remember"> Remember me
+        </label>
+      </div>
+      <div class="button">
+        <button onclick="myFunction()">
+            Login
+        </button>
+      </div>
+</div>
+</body>
+</html>
