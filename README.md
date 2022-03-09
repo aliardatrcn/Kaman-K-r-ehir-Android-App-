@@ -4,7 +4,7 @@ Geliştirilen bu android uygulama kapsamında şehiriçi toplu taşımada yolcul
 
 Uygulamayı indirmek için [buraya](https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/app-debug.apk) tıklayınız (Uygulamanın uygun şekilde kullanılabilmesi için kullanıcı konumunu açmalı ve uygulamaya konum izini vermelidir). Apk kurulumu anlatımı için [buraya](https://www.tamindir.com/blog/android-apk-yukleme-nasil-yapilir_19532/) tıklayınız
 
-Kullanıcıcılar uygulamaya giriş yaptıklarında karşılarına aşağıdaki ekran çıkmaktadır;
+Kullanıcılar uygulamaya giriş yaptıklarında karşılarına aşağıdaki ekran çıkmaktadır;
 
 <p align="center">
   <img src="https://github.com/aliardatrcn/Kaman-Kirsehir-AndroidApp/blob/main/Android_Uygulama/origin.jpeg"/>
